@@ -1,0 +1,8 @@
+F:\Projects\C#\ТИ\Laba2\bin\Debug\Laba2.exe
+F:\Projects\C#\ТИ\Laba2\bin\Debug\Laba2.pdb
+F:\Projects\C#\ТИ\Laba2\obj\x86\Debug\Laba2.Properties.Resources.resources
+F:\Projects\C#\ТИ\Laba2\obj\x86\Debug\Laba2.csproj.GenerateResource.Cache
+F:\Projects\C#\ТИ\Laba2\obj\x86\Debug\Laba2.exe
+F:\Projects\C#\ТИ\Laba2\obj\x86\Debug\Laba2.pdb
+F:\Projects\C#\ТИ\Laba2\obj\x86\Debug\Laba2.Form1.resources
+F:\Projects\C#\ТИ\Laba2\obj\x86\Debug\Laba2.csprojResolveAssemblyReference.cache
